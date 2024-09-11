@@ -1,0 +1,7 @@
+/Users/chall2022/Library/CloudStorage/OneDrive-Personal/Alabama/CS330/Fall2024-Assignment1-cchall5/Fall2024-Assignment1-cchall5/obj/Release/net6.0/PubTmp/Out/Fall2024-Assignment1-cchall5
+/Users/chall2022/Library/CloudStorage/OneDrive-Personal/Alabama/CS330/Fall2024-Assignment1-cchall5/Fall2024-Assignment1-cchall5/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/chall2022/Library/CloudStorage/OneDrive-Personal/Alabama/CS330/Fall2024-Assignment1-cchall5/Fall2024-Assignment1-cchall5/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/chall2022/Library/CloudStorage/OneDrive-Personal/Alabama/CS330/Fall2024-Assignment1-cchall5/Fall2024-Assignment1-cchall5/obj/Release/net6.0/PubTmp/Out/Fall2024-Assignment1-cchall5.dll
+/Users/chall2022/Library/CloudStorage/OneDrive-Personal/Alabama/CS330/Fall2024-Assignment1-cchall5/Fall2024-Assignment1-cchall5/obj/Release/net6.0/PubTmp/Out/Fall2024-Assignment1-cchall5.deps.json
+/Users/chall2022/Library/CloudStorage/OneDrive-Personal/Alabama/CS330/Fall2024-Assignment1-cchall5/Fall2024-Assignment1-cchall5/obj/Release/net6.0/PubTmp/Out/Fall2024-Assignment1-cchall5.runtimeconfig.json
+/Users/chall2022/Library/CloudStorage/OneDrive-Personal/Alabama/CS330/Fall2024-Assignment1-cchall5/Fall2024-Assignment1-cchall5/obj/Release/net6.0/PubTmp/Out/Fall2024-Assignment1-cchall5.pdb

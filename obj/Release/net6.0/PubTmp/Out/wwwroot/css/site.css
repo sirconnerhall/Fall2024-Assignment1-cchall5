@@ -26,9 +26,10 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    min-height: 100vh;
     margin: 0;
     background-color: rgb(173,216,230);
+    color: navy;
 }
 
 .center {
@@ -36,20 +37,19 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    width: 100%;
-    margin: 0 auto;
-}
-
-.container {
-    align-items: center;
+    margin: 20px auto;
+    justify-content: space-around;
+    gap: 20px;
 }
 
 #Trailer {
     display: block;
-    margin: 20px 0;
-    width: 100%;
 }
 
 #Actors {
     list-style-type: none;
+}
+
+#coverArt {
+    border-radius: 50%;
 }

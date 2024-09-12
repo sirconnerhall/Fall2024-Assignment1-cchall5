@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/chall2022/Library/CloudStorage/OneDrive-Personal/Alabama/CS330/Fall2024-Assignment1-cchall5/Fall2024-Assignment1-cchall5/wwwroot/images/young_sheldon.jpeg",
+      "PackagePath": "staticwebassets/images/young_sheldon.jpeg"
+    },
+    {
+      "Id": "/Users/chall2022/Library/CloudStorage/OneDrive-Personal/Alabama/CS330/Fall2024-Assignment1-cchall5/Fall2024-Assignment1-cchall5/wwwroot/images/young_sheldon_cast.jpeg",
+      "PackagePath": "staticwebassets/images/young_sheldon_cast.jpeg"
+    },
+    {
       "Id": "/Users/chall2022/Library/CloudStorage/OneDrive-Personal/Alabama/CS330/Fall2024-Assignment1-cchall5/Fall2024-Assignment1-cchall5/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
     },

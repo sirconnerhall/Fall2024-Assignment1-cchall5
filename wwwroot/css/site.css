@@ -1,5 +1,13 @@
-﻿html {
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
   font-size: 14px;
+  position: relative;
+  height: 100%;
 }
 
 @media (min-width: 768px) {
@@ -14,6 +22,33 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
-  background-color: rgb(0,0,128);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: rgb(173,216,230);
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 20px auto;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+#Trailer {
+    display: block;
+}
+
+#Actors {
+    list-style-type: none;
+}
+
+#coverArt {
+    border-radius: 50%;
 }
